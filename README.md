@@ -8,14 +8,11 @@ Data Analyst with hands-on experience in SQL, Excel, Python, Power BI, and Table
 - Power BI
 - Tableau
 ## Projects
-### 1. Healthcare Data Analysis ( Excel + SQL )
-- Cleaned and analyzed patient data
-- Identified trends in admissions and diagnosis
-### 2. Sales Dashboard ( Power BI )
-- Built interative dashboard
-- Analyzed monthly sales and profit
-### 3. COVID - 19 Data Analysis ( Python )
-- Data cleaning using pandas
-- Visualization using Matplotlib
+### 1. IBM HR ATTRITION ANALYSIS
+- This project analyzes employee attrition using the IBM HR dataset.
+- The dashboard provides insights into attrition trends, job roles, salary impact, work-life balance, and performance.
+### Tools Used
+-POWER BI
+-EXCEL
 ## Contact
 - GitHub: https://github.com/sabab3654-cell/data-analytics-portfolio
